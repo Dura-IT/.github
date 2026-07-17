@@ -4,7 +4,8 @@ Personal software brand of [Ben de Bruijn](https://github.com/Duracell1989). Cro
 
 ## Products
 
-- **[SevenZipSharper](https://github.com/Dura-IT/SevenZipSharper)** — cross-platform .NET 10 library for reading and writing 7-Zip archives.
+- **[SevenZipSharper](https://github.com/Dura-IT/sevenzipsharper)** — cross-platform .NET 10 library for reading and writing 7-Zip archives.
+- **Questmark** *(coming soon)* — mobile game-progression tracker for Final Fantasy X and Elden Ring. Coming to the App Store and Google Play.
 
 ## Stack
 
