@@ -10,7 +10,7 @@ Personal software brand of [Ben de Bruijn](https://github.com/Duracell1989). Cro
   <br>
   <a href="https://apps.apple.com/app/id6790860842"><img src="assets/app-store-badge.svg" alt="Download on the App Store" height="40"></a>
   &nbsp;&nbsp;
-  <a href="https://play.google.com/store/apps/details?id=com.durait.questmark"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="60"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.durait.questmark"><img src="assets/google-play-badge.png" alt="Get it on Google Play" height="40"></a>
 
 ## Stack
 
