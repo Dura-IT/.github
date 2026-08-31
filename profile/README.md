@@ -18,4 +18,4 @@ C# / .NET 10 · Avalonia UI · .NET MAUI · SemVer · MIT-licensed where applica
 
 ## Contact
 
-DuraITSolutions@pm.me
+durait.github.36gvc@passmail.com
